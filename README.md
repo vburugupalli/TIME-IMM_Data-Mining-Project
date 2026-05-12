@@ -1,17 +1,6 @@
 # Replicating and Extending IMM-TSF: A Benchmarking Study on Irregular Multimodal EPA-Air Quality Data
 
-**STAT 8240 — Data Mining II | Spring 2026**
-**Kennesaw State University, Marietta Campus**
-
-## Team
-
-| Name | Role |
-|---|---|
-| Anil Vallepu | Lead developer — Track A reproduction (7 models), Track C ablations (GPT-2 vs BERT, architecture family analysis, placebo test), per-county evaluation extension |
-| Vineetha Burugupalli | Remaining 4 models (TimeLLM, CRU, LatentODE, NeuralFlow), independent 7-model replication, documentation |
-| Param Venkat Vivek Kesireddy | Team member |
-
-**Advisor:** Dr. Bn Luo, Assistant Professor of Data Science
+**Advisor:** Dr. Bin Luo, Assistant Professor of Data Science
 
 ---
 
